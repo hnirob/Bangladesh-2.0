@@ -1,1 +1,48 @@
+.fira-sans-thin {
+   font-family: "Fira Sans", serif;
+   font-weight: 100;
+   font-style: normal;
+ }
+ 
+ .fira-sans-extralight {
+   font-family: "Fira Sans", serif;
+   font-weight: 200;
+   font-style: normal;
+ }
+.navv{
+   display: flex;
+   justify-content:space-between;
+   margin: 24px 160px 24px 160px;
+   
+}
+.nav-title{
+   color:#0E0E0E;
+   padding: 10px;
+}
+.btn-primany{
+   color: #006A50;
+   border-radius: 8px;
+   border: 2px solid #006A50;
+   padding: 10px 20px; 
+}
 
+.ull{
+   list-style: none;
+}
+.control{
+   background: #C6E4D6;
+   display: flex;
+   width: 1250px;
+   height: 560px;
+   border-radius: 24px;
+}
+.bangla{
+   color: #0E0E0E50;
+   font-weight:500;
+   font-size:24px ;
+}
+.titlee{
+   color: #0E0E0E;
+   font-weight: bold;
+   font-size: 56px;
+}
