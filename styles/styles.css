@@ -89,6 +89,116 @@
    font-size:16px;
    
 }
+.father-of-card{
+   display: flex;
+
+}
+/* card01 */
 .card1{
    background: #5490F520;
+   width: 350px;
+   height: 300px;
+   margin-left: 70px;
+   border-radius: 16px;
+   padding: 30px 20px 20px 20px;
+}
+.card1photo{
+   width: 64px;
+   height: 64px;
+}
+.card1title{
+   font-weight: bold;
+   font-size: 20px;
+   color: #0e0e0e80;
+}
+.card1para{
+   font-size: 16px;
+   color: #0E0E0E70;
+}
+.card1button{
+   background: #5490F5;
+   border-radius: 8px;
+   font-weight: 600;
+   font-size: 16px;
+   color: #ffffff;
+   width: 122px;
+   height: 41px;
+   border: none;
+}
+.card1button:hover{
+   background:hotpink;
+   color: black;
+   
+}
+/* card02 */
+.card2{
+   background: #C6E4D6;
+   width: 350px;
+   height: 300px;
+   margin-left:30px;
+   border-radius: 16px;
+   padding: 30px 20px 20px 20px;
+}
+.card2photo{
+   width: 64px;
+   height: 64px;
+}
+.card2title{
+   font-weight: bold;
+   font-size: 20px;
+   color: #0e0e0e80;
+}
+.card2para{
+   font-size: 16px;
+   color: #0E0E0E70;
+}
+.card2button{
+   background: #09A15C;
+   border-radius: 8px;
+   font-weight: 600;
+   font-size: 16px;
+   color: #ffffff;
+   width: 122px;
+   height: 41px;
+   border: none;
+}
+.card2button:hover{
+   background:rgb(247, 247, 100);
+   color: black;
+}
+/* card03 */
+.card3{
+   background: #F7EBCF;
+   width: 250px;
+   height: 300px;
+   margin-left:30px;
+   border-radius: 16px;
+   padding: 30px 20px 20px 20px;
+}
+.card3photo{
+   width: 64px;
+   height: 64px;
+}
+.card3title{
+   font-weight: bold;
+   font-size: 20px;
+   color: #0e0e0e80;
+}
+.card3para{
+   font-size: 16px;
+   color: #0E0E0E70;
+}
+.card3button{
+   background: #09A15C;
+   border-radius: 8px;
+   font-weight: 600;
+   font-size: 16px;
+   color: #ffffff;
+   width: 122px;
+   height: 41px;
+   border: none;
+}
+.card3button:hover{
+   background:rgb(142, 217, 243);
+   color: black;
 }
