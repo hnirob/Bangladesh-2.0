@@ -437,6 +437,10 @@
    margin-left: 20px;
    
 }
+.money1:hover{
+   background: rgb(250, 250, 113);
+   color: #ffffff;
+}
 .money2{
    border: none;
    border-radius: 16px;
@@ -449,6 +453,10 @@
    padding: 40px;
    margin-left: 10px;
 }
+.money2:hover{
+   background: rgb(97, 80, 247);
+   color: #000000;
+}
 .money3{
    border: none;
    border-radius: 16px;
@@ -460,6 +468,10 @@
    font-weight:bold;
    padding: 40px;
    margin-left: 10px;
+}
+.money3:hover{
+   background: rgb(206, 54, 102);
+   color: #b4ea14;
 }
 .money4{
    border: none;
@@ -474,12 +486,34 @@
    margin-left: 10px;
 
 }
+.money4:hover{
+   background: rgb(35, 220, 44);
+   color: #b50b0b;
+}
 .donateinput{
    background: #ffffff;
    width:950px ;
-   height: 45px;
+   height: 55px;
    border: none;
+   font-size: 20px;
    margin-left: 60px;
    text-align: center;
    color: #0E0E0E30;
+}
+.donatebutton{
+   color:#ffffff ;
+   background:#006A50;
+   width:145px ;
+   height:52px;
+   border-radius:8px;
+   border: none;
+   font-size: 16px;
+   font-weight:600;
+   margin-left: 465px;
+   margin-top: 20px;
+
+}
+.donatebutton:hover{
+   color: black;
+   background: lightblue;
 }
