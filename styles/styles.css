@@ -402,3 +402,84 @@
    background: rgb(68, 105, 227);
    color: #0E0E0E;
 }
+/* donate section */
+.donate{
+   width: 1140px;
+   height: 360px;
+   margin-left: 70px;
+}
+.donatehead{
+   font-size: 40px;
+   font-weight:bold;
+   text-align: center;
+   margin-bottom:0px ;
+}
+.donatepara{
+   font-size: 16px;
+   text-align: center;
+
+}
+.father-of-money{
+   display: flex;
+   margin-bottom: 30px;
+   
+}
+.money1{
+   border: none;
+   border-radius: 16px;
+   width:170px;
+   height: 48px;
+   color:#0E0E0E80;
+   background:#ffffff ;
+   font-size: 40px;
+   font-weight:bold;
+   padding: 40px;
+   margin-left: 20px;
+   
+}
+.money2{
+   border: none;
+   border-radius: 16px;
+   width:170px;
+   height: 48px;
+   color:#0E0E0E80;
+   background:#C6E4D6;
+   font-size: 40px;
+   font-weight:bold;
+   padding: 40px;
+   margin-left: 10px;
+}
+.money3{
+   border: none;
+   border-radius: 16px;
+   width:170px;
+   height: 48px;
+   color:#0E0E0E80;
+   background:#ffffff ;
+   font-size: 40px;
+   font-weight:bold;
+   padding: 40px;
+   margin-left: 10px;
+}
+.money4{
+   border: none;
+   border-radius: 16px;
+   width:190px;
+   height: 48px;
+   color:#0E0E0E80;
+   background:#ffffff ;
+   font-size: 40px;
+   font-weight:bold;
+   padding: 40px;
+   margin-left: 10px;
+
+}
+.donateinput{
+   background: #ffffff;
+   width:950px ;
+   height: 45px;
+   border: none;
+   margin-left: 60px;
+   text-align: center;
+   color: #0E0E0E30;
+}
