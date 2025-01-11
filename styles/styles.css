@@ -516,4 +516,28 @@
 .donatebutton:hover{
    color: black;
    background: lightblue;
+} 
+/* challenges */
+.challenges{
+   width: 1140px;
+   height: 360px;
+   background: #C6E4D6;
+   margin-top: 90px;
+   margin-left: 70px;
+   border-radius: 24px;
+   text-align: center;
+   padding-top: 40px;
+}
+.challengestitle{
+   font-size: 40px;
+   font-weight: bold;
+   color: #000000;
+  
+}
+.challengespara{
+   font-size: 16px;
+   color:#0E0E0E70;
+}
+.problem{
+   padding: 20px;
 }
