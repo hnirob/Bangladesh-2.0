@@ -12,7 +12,7 @@
 .navv{
    display: flex;
    justify-content:space-between;
-   margin: 24px 160px 24px 160px;
+   margin: 24px 73px 24px 73px;
    
 }
 .nav-title{
@@ -32,9 +32,16 @@
 .control{
    background: #C6E4D6;
    display: flex;
-   width: 1250px;
+   width: 1120px;
    height: 560px;
    border-radius: 24px;
+   margin: 0 70px;
+}
+.heading-title{
+   width: 622px; ;
+   height: 326px;
+   margin-top: 70px;
+   margin-left: 50px;
 }
 .bangla{
    color: #0E0E0E50;
@@ -45,4 +52,43 @@
    color: #0E0E0E;
    font-weight: bold;
    font-size: 56px;
+   width:549px ;
+   height:170px ;
+}
+.firstbutton{
+   width: 240px;
+   height: 56px;
+   background: #006A50;
+   border-radius: 8px;
+   font-weight: 600;
+   font-size: 18px;
+   border: none;
+   color: #ffffff;
+}
+.firstbutton:hover{
+   background: hotpink;
+   color: #0E0E0E;
+}
+.b2photo{
+   width: 380px;
+   height: 300px;
+   padding: 80px 0px;
+   margin-top: 70px;
+     
+}
+.vision-control{
+   width: 1120px;
+   margin-left: 75px;
+}
+.vision1{
+   font-weight:bold ;
+   font-size:40px;
+}
+.vision2{
+   color: #0E0E0E70;
+   font-size:16px;
+   
+}
+.card1{
+   background: #5490F520;
 }
